@@ -1,0 +1,5 @@
+{"records": [{
+    "jsonSchemaLocation": "/SampleRest.module/Service Descriptors/samplerest.module.Process-User.json",
+    "conversionType": "linked",
+    "xsdSchemaTargetNamespace": "http://www.example.com/namespaces/tns/1489042136491"
+}]}
